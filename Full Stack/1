@@ -1,1 +1,14 @@
 
+list1 = []
+length = int(input("How many elements?")
+for i in range(length):
+    element = input("Enter first/next element")
+    if element % 2 = 0:
+        elements_list.append(element)
+print(elements_list)
+
+def list(a,b,c,d):
+    if
+    return
+
+
